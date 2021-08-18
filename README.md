@@ -6,7 +6,5 @@ Hi there ✍
 
 📡 I website here: https://7net.nl
 
-💒 I work Freelancer
-
 ☎ I'm in telegram : @sevennettt
 
