@@ -17,6 +17,6 @@
 ### Languages I use 📑
 
 
-![C#](<img width="48px" height="48px" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />)
+![C#] <img width="48px" height="48px" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![.Net 6.0](https://img.shields.io/badge/-Visualbasic-05122A?)
