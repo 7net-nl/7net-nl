@@ -11,4 +11,4 @@
 
 [![Gmail](https://icons.iconarchive.com/icons/ncrow/mega-pack-1/48/Gmail-icon.png)](mailto:fttcab@gmail.com)
 [![web](https://icons.iconarchive.com/icons/simon-cook/xtra-orange/48/HTTP-icon.png)](https://7net.nl)
-[![LinkedIn](https://icons.iconarchive.com/icons/designbolts/embossed-social/48/Linkedin-icon.png)](https://www.linkedin.com/in/hamed-s-h/)
+[![LinkedIn](https://icons.iconarchive.com/icons/designbolts/ios8-style-social/48/Linkedin-icon.png)](https://www.linkedin.com/in/hamed-s-h/)
