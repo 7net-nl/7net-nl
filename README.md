@@ -1,9 +1,9 @@
 ### Hi there I am Hamed 👋
 - 🙋🏻‍♂️ 27 years oldy guy from Spain.
 
-<img align="right" alt="GIF" height="250px" style="position:absolute;top:20px;" src="https://i.imgur.com/9wQrIbR.png" />
+<img align="right" alt="GIF" height="250px"  src="https://i.imgur.com/9wQrIbR.png" />
 
-## I'm web Developer <img width="48px" height="48px" style="padding-top:30px;" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />
+## I'm web Developer <img width="48px" height="48px" style="position:absolute;top:50px;" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />
 - 💻 I’m already worked on bridge between hangfire and mediator and now working on FlashCard with blazor 
 - 👍 Experinces: C#, .Netcore, .Net 6.0, Mediator, Hangfire, Cqrs, Api, CleanArchitecture, html, css, javascript, Entityframework, etc.
 - 📚 I’m curious learning everything about Frontend and Backend technologies 😅
