@@ -9,4 +9,4 @@
 - 📚 I’m curious learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more and get better at my job and implement own applications.
 
-[![Gmail](https://www.clipartmax.com/png/small/243-2436867_gmail-red-icon.png)](mailto:fttcab@gmail.com)
+[![Gmail](https://icons.iconarchive.com/icons/ncrow/mega-pack-1/48/Gmail-icon.png)](mailto:fttcab@gmail.com)
