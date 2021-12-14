@@ -10,3 +10,4 @@
 - 💪🏼 Future Goals: Learn more and get better at my job and implement own applications.
 
 [![Gmail](https://icons.iconarchive.com/icons/ncrow/mega-pack-1/48/Gmail-icon.png)](mailto:fttcab@gmail.com)
+[![web](https://icons.iconarchive.com/icons/simon-cook/xtra-orange/48/HTTP-icon.png)](https://7net.nl)
