@@ -6,5 +6,5 @@ Hi there ✍
 
 📡 I website here: https://7net.nl
 
-☎ I'm in telegram : @sevennettt
+☎ I'm in telegram : https://t.me/sevennettt
 
