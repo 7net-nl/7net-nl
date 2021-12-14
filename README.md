@@ -11,4 +11,4 @@
 
 [![Gmail](https://icons.iconarchive.com/icons/ncrow/mega-pack-1/48/Gmail-icon.png)](mailto:fttcab@gmail.com)
 [![web](https://icons.iconarchive.com/icons/simon-cook/xtra-orange/48/HTTP-icon.png)](https://7net.nl)
-[![telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png)](https://t.me/sevennettt)
+[![telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png)](https://icons.iconarchive.com/icons/froyoshark/enkel/48/Telegram-icon.png)
