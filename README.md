@@ -12,3 +12,11 @@
 [![Gmail](https://icons.iconarchive.com/icons/ncrow/mega-pack-1/48/Gmail-icon.png)](mailto:fttcab@gmail.com)
 [![web](https://icons.iconarchive.com/icons/simon-cook/xtra-orange/48/HTTP-icon.png)](https://7net.nl)
 [![LinkedIn](https://icons.iconarchive.com/icons/designbolts/ios8-style-social/48/Linkedin-icon.png)](https://www.linkedin.com/in/hamed-s-h/)
+
+
+### Languages I use 📑
+
+
+![C#](<img width="48px" height="48px" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![.Net 6.0](https://img.shields.io/badge/-Visualbasic-05122A?)
