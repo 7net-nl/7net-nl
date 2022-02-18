@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" height="250px"  src="https://i.imgur.com/9wQrIbR.png" />
 
 ## I'm 𝓒# web Developer
-- 💻 I’m already worked on bridge between hangfire and mediator and now working on FlashCard with blazor 
+- ✌ I’m already worked on bridge between hangfire and mediator and now working on FlashCard with blazor 
 - 👍 Experinces: C#, .Netcore, .Net 6.0, Mediator, Hangfire, Cqrs, Api, CleanArchitecture, html, css, javascript, Entityframework, etc.
 - 💪 I’m curious learning everything about Frontend and Backend technologies 😅
 - 😎 Future Goals: Learn more and get better at my job and implement own applications.
