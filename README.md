@@ -1,6 +1,4 @@
 ### Hi there I am Hamed 👋
-- 👉 34 years old man from Netherland.
-
 <img align="right" alt="GIF" height="250px"  src="https://i.imgur.com/9wQrIbR.png" />
 
 ## I'm 𝓒# web Developer
