@@ -19,4 +19,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=7net-nl&show_icons=true&theme=radical&count_private=true" style="max-width: 100%;">
 </a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=&7net-nl&theme=radical)](https://git.io/streak-stats)
